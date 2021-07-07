@@ -2,6 +2,7 @@
 The above file contains two python files namely:
 
 1.HandTrackingModule.py
+
 2.VirtualMouse.py
 
 The first python file contains all the necessary functions related to detecting a person's hand.
